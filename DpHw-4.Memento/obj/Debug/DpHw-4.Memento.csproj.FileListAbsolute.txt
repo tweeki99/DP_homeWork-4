@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\bin\Debug\DpHw-4.Memento.exe.config
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\bin\Debug\DpHw-4.Memento.exe
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\bin\Debug\DpHw-4.Memento.pdb
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\obj\Debug\DpHw-4.Memento.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\obj\Debug\DpHw-4.Memento.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\obj\Debug\DpHw-4.Memento.exe
+C:\Users\Shipa\source\repos\DpHw-4.Mediator\DpHw-4.Memento\obj\Debug\DpHw-4.Memento.pdb
